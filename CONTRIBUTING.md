@@ -64,8 +64,8 @@ Before creating enhancement suggestions, please check [this list](#before-submit
 
 #### Before submitting an enhancement suggestion
 
-* **Check the [FAQs on the official website](https://poetry.eustace.io) for a list of common questions and problems.
-* **Check that your issue does not already exist in the [issue tracker](https://github.com/sdispater/poetry/issues).
+* **Check the [FAQs on the official website](https://poetry.eustace.io)** for a list of common questions and problems.
+* **Check that your issue does not already exist in the [issue tracker](https://github.com/sdispater/poetry/issues)**.
 
 
 #### How do I submit an Enhancement suggestion?
